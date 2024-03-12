@@ -1,2 +1,1 @@
-# Python-Week-1
-kkkj
+**INTRODUCTION TO PYTHON** - Python is a high-level, interpreted, object-oriented language with dynamic semantics. Because of its high-level built-in data structures, dynamic typing, and dynamic binding, it's a very appealing language for Rapid Application Development (RAD) and may also be used as a scripting language or glue language to join existing components.
